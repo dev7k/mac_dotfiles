@@ -22,4 +22,4 @@ Other
 - NTFS for Mac
 - Synology Drive Client
 - Foobar2000
-
+- Turbo Boost Switcher Pro
