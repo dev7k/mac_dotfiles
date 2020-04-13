@@ -1,0 +1,25 @@
+App Store
+##############################
+- Kindle
+- Microsoft To Do
+- Money Pro
+- OneNote
+- Pixelmator
+- Pocket
+- Simplenote
+- Twitter
+- Xcode
+
+App Store (Safari extensions)
+##############################
+- AdGuard for Safari
+- Ghostery Lite
+- Grammarly for Safari
+- Save to Pocket
+
+Other
+##############################
+- NTFS for Mac
+- Synology Drive Client
+- Foobar2000
+
