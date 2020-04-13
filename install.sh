@@ -7,6 +7,7 @@ brew install sl
 brew install speedtest-cli
 brew install tmux
 brew install tree
+brew install wifi-password
 
 # Install zsh with oh-my-zsh
 brew install zsh
