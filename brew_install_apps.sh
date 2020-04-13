@@ -29,9 +29,11 @@ brew cask install skim
 brew cask install skype
 brew cask install spectacle
 
-# Install quickview plugins
+# Install QuickLook plugins
+# https://github.com/sindresorhus/quick-look-plugins
 brew cask install qlcolorcode
 brew cask install qlimagesize
 brew cask install qlmarkdown
 brew cask install qlstephen
 brew cask install quicklook-json
+brew cask install suspicious-package
