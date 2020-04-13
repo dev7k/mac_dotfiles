@@ -5,6 +5,7 @@ brew cask install fork
 brew cask install iterm2
 brew cask install sublime-text
 brew cask install visual-studio-code
+brew cask install meld
 
 # Install MacOS applications
 brew cask install appcleaner
