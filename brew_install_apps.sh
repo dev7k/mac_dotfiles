@@ -8,15 +8,11 @@ brew cask install visual-studio-code
 
 # Install MacOS applications
 brew cask install appcleaner
-brew cask install atext
 brew cask install caffeine
 brew cask install clipy
-brew cask install coconutbattery
 brew cask install commander-one
-brew cask install console
+brew cask install dictionaries
 brew cask install firefox
-brew cask install forklift
-brew cask install gemini
 brew cask install google-chrome
 brew cask install iina
 brew cask install karabiner-elements
