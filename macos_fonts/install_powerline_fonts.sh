@@ -1,5 +1,5 @@
 # clone
-git clone https://github.com/powerline/fonts.git --depth=1
+git clone --depth 1 https://github.com/powerline/fonts.git
 # install
 cd fonts
 ./install.sh
