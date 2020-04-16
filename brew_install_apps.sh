@@ -1,22 +1,11 @@
-# Install MacOS application (development)
-brew cask install docker
-brew cask install dotnet-sdk
-brew cask install fork
-brew cask install iterm2
-brew cask install sublime-text
-brew cask install visual-studio-code
-brew cask install meld
-
 # Install MacOS applications
 brew cask install appcleaner
 brew cask install caffeine
 brew cask install clipy
-brew cask install commander-one
 brew cask install dictionaries
 brew cask install firefox
 brew cask install google-chrome
 brew cask install iina
-brew cask install karabiner-elements
 brew cask install keka
 brew cask install keybase
 brew cask install nordvpn
