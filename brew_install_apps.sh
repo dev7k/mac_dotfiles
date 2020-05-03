@@ -1,6 +1,7 @@
 # Install MacOS applications
 brew cask install appcleaner
 brew cask install caffeine
+brew cask install cheatsheet
 brew cask install clipy
 brew cask install dictionaries
 brew cask install firefox
@@ -13,7 +14,7 @@ brew cask install pdf-expert
 brew cask install qnapi
 brew cask install skim
 brew cask install skype
-brew cask install spectacle
+brew cask install rectangle
 
 # Install QuickLook plugins
 # https://github.com/sindresorhus/quick-look-plugins
