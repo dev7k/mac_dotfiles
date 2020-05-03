@@ -8,6 +8,8 @@ brew cask install coconutbattery
 brew cask install gemini
 brew cask install atext
 brew cask install forklift
+brew cask install homebrew/cask-versions/firefox-developer-edition
+brew cask install tor-browser
 
 # Install brew packages (optional)
 brew install wifi-password
