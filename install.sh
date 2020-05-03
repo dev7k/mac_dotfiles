@@ -2,6 +2,7 @@
 brew install htop
 brew install midnight-commander
 brew install tmux
+brew tap homebrew/cask-fonts && brew cask install homebrew/cask-fonts/font-source-code-pro
 
 # Install MacOS application (development)
 brew cask install docker
