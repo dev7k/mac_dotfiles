@@ -16,3 +16,4 @@ brew cask install meld
 # Install MacOS applicatiion
 brew cask install karabiner-elements
 brew cask install commander-one
+brew cask install monitorcontrol
