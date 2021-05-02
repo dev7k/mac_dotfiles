@@ -1,15 +1,15 @@
 # Install MacOS applications (optional)
-brew cask install corona-tracker
-brew cask install istat-menus
-brew cask install joplin
-brew cask install tidal
-brew cask install console
-brew cask install coconutbattery
-brew cask install gemini
-brew cask install atext
-brew cask install forklift
-brew cask install homebrew/cask-versions/firefox-developer-edition
-brew cask install tor-browser
+brew install corona-tracker
+brew install istat-menus
+brew install joplin
+brew install console
+brew install coconutbattery
+brew install gemini
+brew install atext
+brew install forklift
+brew install homebrew/cask-versions/firefox-developer-edition
+brew install tor-browser
+brew install optimus-player
 
 # Install brew packages (optional)
 brew install wifi-password
