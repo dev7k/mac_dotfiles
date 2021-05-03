@@ -10,6 +10,8 @@ brew install forklift
 brew install homebrew/cask-versions/firefox-developer-edition
 brew install tor-browser
 brew install optimus-player
+brew install intel-power-gadget
+brew install deepl
 
 # Install brew packages (optional)
 brew install wifi-password
