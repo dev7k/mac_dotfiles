@@ -15,6 +15,7 @@ brew install qnapi
 brew install skim
 brew install skype
 brew install rectangle
+brew install alt-tab
 
 # Install QuickLook plugins
 # https://github.com/sindresorhus/quick-look-plugins
