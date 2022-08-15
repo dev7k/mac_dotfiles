@@ -12,6 +12,8 @@ brew install tor-browser
 brew install optimus-player
 brew install intel-power-gadget
 brew install deepl
+brew install textmate
+brew install itsycal
 
 # Install brew packages (optional)
 brew install wifi-password
@@ -19,3 +21,6 @@ brew install speedtest-cli
 brew install sl
 brew install tig
 brew install tree
+brew install btop
+brew install ripgrep
+brew install cmatrix
