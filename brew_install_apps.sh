@@ -2,7 +2,7 @@
 brew install appcleaner
 brew install caffeine
 brew install cheatsheet
-brew install clipy
+brew install maccy
 brew install dictionaries
 brew install firefox
 brew install google-chrome
