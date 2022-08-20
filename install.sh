@@ -11,7 +11,11 @@ brew install lsd
 # Install fonts
 brew tap homebrew/cask-fonts
 brew install font-source-code-pro
+brew install font-sauce-code-pro-nerd-font
 brew install font-jetbrains-mono-nerd-font
+brew install font-jetbrains-mono
+brew install font-hasklug-nerd-font
+brew install font-hack-nerd-font
 
 # Install MacOS application (development)
 brew install homebrew/cask/docker
